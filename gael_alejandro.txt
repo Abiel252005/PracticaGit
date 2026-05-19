@@ -1,0 +1,4 @@
+Nombre: Gael Alejandro
+Edad: 20
+Fecha de nacimiento: 22 de Julio del 2005
+Color favorito: Azul
